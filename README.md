@@ -1,8 +1,4 @@
-# 🚀 Your V1 Portfolio - Enhanced!
-
-**Your EXACT V1 with ONLY the features you requested!**
-
-## ✨ What's New (Everything Else is Your V1!)
+# 🚀 V1 Portfolio
 
 ### ✅ Features Added:
 1. **Top Navbar** - Smooth scroll to sections
